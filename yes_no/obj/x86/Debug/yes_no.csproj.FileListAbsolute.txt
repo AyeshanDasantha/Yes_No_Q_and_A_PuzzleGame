@@ -1,0 +1,101 @@
+C:\Users\Ayeshan Dasantha\Documents\Visual Studio 2010\Projects\yes_no\yes_no\bin\Debug\yes_no.exe
+C:\Users\Ayeshan Dasantha\Documents\Visual Studio 2010\Projects\yes_no\yes_no\bin\Debug\yes_no.pdb
+C:\Users\Ayeshan Dasantha\Documents\Visual Studio 2010\Projects\yes_no\yes_no\obj\x86\Debug\yes_no.Form1.resources
+C:\Users\Ayeshan Dasantha\Documents\Visual Studio 2010\Projects\yes_no\yes_no\obj\x86\Debug\yes_no.Properties.Resources.resources
+C:\Users\Ayeshan Dasantha\Documents\Visual Studio 2010\Projects\yes_no\yes_no\obj\x86\Debug\yes_no.csproj.GenerateResource.Cache
+C:\Users\Ayeshan Dasantha\Documents\Visual Studio 2010\Projects\yes_no\yes_no\obj\x86\Debug\yes_no.exe
+C:\Users\Ayeshan Dasantha\Documents\Visual Studio 2010\Projects\yes_no\yes_no\obj\x86\Debug\yes_no.pdb
+C:\Users\Ayeshan Dasantha\Documents\Visual Studio 2010\Projects\yes_no\yes_no\obj\x86\Debug\yes_no.Quection.quection.resources
+C:\Users\Ayeshan Dasantha\Documents\Visual Studio 2010\Projects\yes_no\yes_no\obj\x86\Debug\yes_no.Answer.Q1.resources
+C:\Users\Ayeshan Dasantha\Documents\Visual Studio 2010\Projects\yes_no\yes_no\obj\x86\Debug\yes_no.Answer.Q2.resources
+C:\Users\Ayeshan Dasantha\Documents\Visual Studio 2010\Projects\yes_no\yes_no\obj\x86\Debug\yes_no.Answer.Q3.resources
+C:\Users\Ayeshan Dasantha\Documents\Visual Studio 2010\Projects\yes_no\yes_no\obj\x86\Debug\yes_no.Answer.Q4.resources
+C:\Users\Ayeshan Dasantha\Documents\Visual Studio 2010\Projects\yes_no\yes_no\obj\x86\Debug\yes_no.Answer.Q5.resources
+C:\Users\Ayeshan Dasantha\Documents\Visual Studio 2010\Projects\yes_no\yes_no\obj\x86\Debug\yes_no.Answer.Q6.resources
+C:\Users\Ayeshan Dasantha\Documents\Visual Studio 2010\Projects\yes_no\yes_no\obj\x86\Debug\yes_no.Answer.Q7.resources
+C:\Users\Ayeshan Dasantha\Documents\Visual Studio 2010\Projects\yes_no\yes_no\obj\x86\Debug\yes_no.Answer.Q8.resources
+C:\Users\Ayeshan Dasantha\Documents\Visual Studio 2010\Projects\yes_no\yes_no\obj\x86\Debug\yes_no.Answer.Q9.resources
+C:\Users\Ayeshan Dasantha\Documents\Visual Studio 2010\Projects\yes_no\yes_no\obj\x86\Debug\yes_no.yesno.no.resources
+C:\Users\Ayeshan Dasantha\Documents\Visual Studio 2010\Projects\yes_no\yes_no\obj\x86\Debug\yes_no.yesno.yes.resources
+C:\Users\Ayeshan Dasantha\Documents\Visual Studio 2010\Projects\yes_no\yes_no\obj\x86\Debug\yes_no.Main.Home.resources
+C:\Users\Ayeshan Dasantha\Documents\yes_no\yes_no\bin\Debug\yes_no.exe
+C:\Users\Ayeshan Dasantha\Documents\yes_no\yes_no\bin\Debug\yes_no.pdb
+C:\Users\Ayeshan Dasantha\Documents\yes_no\yes_no\obj\x86\Debug\yes_no.Answer.Q1.resources
+C:\Users\Ayeshan Dasantha\Documents\yes_no\yes_no\obj\x86\Debug\yes_no.Answer.Q2.resources
+C:\Users\Ayeshan Dasantha\Documents\yes_no\yes_no\obj\x86\Debug\yes_no.Answer.Q3.resources
+C:\Users\Ayeshan Dasantha\Documents\yes_no\yes_no\obj\x86\Debug\yes_no.Answer.Q4.resources
+C:\Users\Ayeshan Dasantha\Documents\yes_no\yes_no\obj\x86\Debug\yes_no.Answer.Q5.resources
+C:\Users\Ayeshan Dasantha\Documents\yes_no\yes_no\obj\x86\Debug\yes_no.Answer.Q6.resources
+C:\Users\Ayeshan Dasantha\Documents\yes_no\yes_no\obj\x86\Debug\yes_no.Answer.Q7.resources
+C:\Users\Ayeshan Dasantha\Documents\yes_no\yes_no\obj\x86\Debug\yes_no.Answer.Q8.resources
+C:\Users\Ayeshan Dasantha\Documents\yes_no\yes_no\obj\x86\Debug\yes_no.Answer.Q9.resources
+C:\Users\Ayeshan Dasantha\Documents\yes_no\yes_no\obj\x86\Debug\yes_no.Form1.resources
+C:\Users\Ayeshan Dasantha\Documents\yes_no\yes_no\obj\x86\Debug\yes_no.Main.Home.resources
+C:\Users\Ayeshan Dasantha\Documents\yes_no\yes_no\obj\x86\Debug\yes_no.Properties.Resources.resources
+C:\Users\Ayeshan Dasantha\Documents\yes_no\yes_no\obj\x86\Debug\yes_no.Quection.quection.resources
+C:\Users\Ayeshan Dasantha\Documents\yes_no\yes_no\obj\x86\Debug\yes_no.yesno.no.resources
+C:\Users\Ayeshan Dasantha\Documents\yes_no\yes_no\obj\x86\Debug\yes_no.yesno.yes.resources
+C:\Users\Ayeshan Dasantha\Documents\yes_no\yes_no\obj\x86\Debug\yes_no.csproj.GenerateResource.Cache
+C:\Users\Ayeshan Dasantha\Documents\yes_no\yes_no\obj\x86\Debug\yes_no.exe
+C:\Users\Ayeshan Dasantha\Documents\yes_no\yes_no\obj\x86\Debug\yes_no.pdb
+C:\Users\Ayeshan Dasantha\Desktop\yes_no\yes_no\bin\Debug\db.mdf
+C:\Users\Ayeshan Dasantha\Desktop\yes_no\yes_no\bin\Debug\db_log.ldf
+C:\Users\Ayeshan Dasantha\Desktop\yes_no\yes_no\bin\Debug\yes_no.exe
+C:\Users\Ayeshan Dasantha\Desktop\yes_no\yes_no\bin\Debug\yes_no.pdb
+C:\Users\Ayeshan Dasantha\Desktop\yes_no\yes_no\obj\x86\Debug\yes_no.Answer.Q1.resources
+C:\Users\Ayeshan Dasantha\Desktop\yes_no\yes_no\obj\x86\Debug\yes_no.Answer.Q2.resources
+C:\Users\Ayeshan Dasantha\Desktop\yes_no\yes_no\obj\x86\Debug\yes_no.Answer.Q3.resources
+C:\Users\Ayeshan Dasantha\Desktop\yes_no\yes_no\obj\x86\Debug\yes_no.Answer.Q4.resources
+C:\Users\Ayeshan Dasantha\Desktop\yes_no\yes_no\obj\x86\Debug\yes_no.Answer.Q5.resources
+C:\Users\Ayeshan Dasantha\Desktop\yes_no\yes_no\obj\x86\Debug\yes_no.Answer.Q6.resources
+C:\Users\Ayeshan Dasantha\Desktop\yes_no\yes_no\obj\x86\Debug\yes_no.Answer.Q7.resources
+C:\Users\Ayeshan Dasantha\Desktop\yes_no\yes_no\obj\x86\Debug\yes_no.Answer.Q8.resources
+C:\Users\Ayeshan Dasantha\Desktop\yes_no\yes_no\obj\x86\Debug\yes_no.Answer.Q9.resources
+C:\Users\Ayeshan Dasantha\Desktop\yes_no\yes_no\obj\x86\Debug\yes_no.Form1.resources
+C:\Users\Ayeshan Dasantha\Desktop\yes_no\yes_no\obj\x86\Debug\yes_no.Main.Home.resources
+C:\Users\Ayeshan Dasantha\Desktop\yes_no\yes_no\obj\x86\Debug\yes_no.Properties.Resources.resources
+C:\Users\Ayeshan Dasantha\Desktop\yes_no\yes_no\obj\x86\Debug\yes_no.Quection.quection.resources
+C:\Users\Ayeshan Dasantha\Desktop\yes_no\yes_no\obj\x86\Debug\yes_no.yesno.no.resources
+C:\Users\Ayeshan Dasantha\Desktop\yes_no\yes_no\obj\x86\Debug\yes_no.yesno.yes.resources
+C:\Users\Ayeshan Dasantha\Desktop\yes_no\yes_no\obj\x86\Debug\yes_no.csproj.GenerateResource.Cache
+C:\Users\Ayeshan Dasantha\Desktop\yes_no\yes_no\obj\x86\Debug\yes_no.exe
+C:\Users\Ayeshan Dasantha\Desktop\yes_no\yes_no\obj\x86\Debug\yes_no.pdb
+C:\Users\Ayeshan Dasantha\Desktop\yes_no\yes_no\bin\Debug\yes_no.exe.config
+C:\Users\Ayeshan Dasantha\Desktop\yes_no\yes_no\bin\Debug\yes_no.exe.manifest
+C:\Users\Ayeshan Dasantha\Desktop\yes_no\yes_no\bin\Debug\yes_no.application
+C:\Users\Ayeshan Dasantha\Desktop\yes_no\yes_no\obj\x86\Debug\yes_no.exe.manifest
+C:\Users\Ayeshan Dasantha\Desktop\yes_no\yes_no\obj\x86\Debug\yes_no.application
+C:\Users\Ayeshan Dasantha\Pictures\yes_no\yes_no\bin\Debug\yes_no.exe.config
+C:\Users\Ayeshan Dasantha\Pictures\yes_no\yes_no\obj\x86\Debug\yes_no.exe
+C:\Users\Ayeshan Dasantha\Pictures\yes_no\yes_no\obj\x86\Debug\yes_no.pdb
+C:\Users\Ayeshan Dasantha\Pictures\yes_no\yes_no\bin\Debug\db.mdf
+C:\Users\Ayeshan Dasantha\Pictures\yes_no\yes_no\bin\Debug\db_log.ldf
+C:\Users\Ayeshan Dasantha\Pictures\yes_no\yes_no\bin\Debug\yes_no.exe.manifest
+C:\Users\Ayeshan Dasantha\Pictures\yes_no\yes_no\bin\Debug\yes_no.application
+C:\Users\Ayeshan Dasantha\Pictures\yes_no\yes_no\bin\Debug\yes_no.exe
+C:\Users\Ayeshan Dasantha\Pictures\yes_no\yes_no\bin\Debug\yes_no.pdb
+C:\Users\Ayeshan Dasantha\Pictures\yes_no\yes_no\obj\x86\Debug\yes_no.Answer.Q1.resources
+C:\Users\Ayeshan Dasantha\Pictures\yes_no\yes_no\obj\x86\Debug\yes_no.Answer.Q2.resources
+C:\Users\Ayeshan Dasantha\Pictures\yes_no\yes_no\obj\x86\Debug\yes_no.Answer.Q3.resources
+C:\Users\Ayeshan Dasantha\Pictures\yes_no\yes_no\obj\x86\Debug\yes_no.Answer.Q4.resources
+C:\Users\Ayeshan Dasantha\Pictures\yes_no\yes_no\obj\x86\Debug\yes_no.Answer.Q5.resources
+C:\Users\Ayeshan Dasantha\Pictures\yes_no\yes_no\obj\x86\Debug\yes_no.Answer.Q6.resources
+C:\Users\Ayeshan Dasantha\Pictures\yes_no\yes_no\obj\x86\Debug\yes_no.Answer.Q7.resources
+C:\Users\Ayeshan Dasantha\Pictures\yes_no\yes_no\obj\x86\Debug\yes_no.Answer.Q8.resources
+C:\Users\Ayeshan Dasantha\Pictures\yes_no\yes_no\obj\x86\Debug\yes_no.Answer.Q9.resources
+C:\Users\Ayeshan Dasantha\Pictures\yes_no\yes_no\obj\x86\Debug\yes_no.Form1.resources
+C:\Users\Ayeshan Dasantha\Pictures\yes_no\yes_no\obj\x86\Debug\yes_no.Main.Home.resources
+C:\Users\Ayeshan Dasantha\Pictures\yes_no\yes_no\obj\x86\Debug\yes_no.Properties.Resources.resources
+C:\Users\Ayeshan Dasantha\Pictures\yes_no\yes_no\obj\x86\Debug\yes_no.Quection.quection.resources
+C:\Users\Ayeshan Dasantha\Pictures\yes_no\yes_no\obj\x86\Debug\yes_no.yesno.no.resources
+C:\Users\Ayeshan Dasantha\Pictures\yes_no\yes_no\obj\x86\Debug\yes_no.yesno.yes.resources
+C:\Users\Ayeshan Dasantha\Pictures\yes_no\yes_no\obj\x86\Debug\yes_no.csproj.GenerateResource.Cache
+C:\Users\Ayeshan Dasantha\Pictures\yes_no\yes_no\obj\x86\Debug\yes_no.exe.manifest
+C:\Users\Ayeshan Dasantha\Pictures\yes_no\yes_no\obj\x86\Debug\yes_no.application
+C:\Users\Ayeshan Dasantha\OneDrive\My Project\Q and A\yes_no\yes_no\bin\Debug\yes_no.exe.config
+C:\Users\Ayeshan Dasantha\OneDrive\My Project\Q and A\yes_no\yes_no\obj\x86\Debug\yes_no.exe
+C:\Users\Ayeshan Dasantha\OneDrive\My Project\Q and A\yes_no\yes_no\obj\x86\Debug\yes_no.pdb
+C:\Users\Ayeshan Dasantha\Pictures\yes_no\yes_no\obj\x86\Debug\yes_no.csprojResolveAssemblyReference.cache
+C:\Users\Ayeshan Dasantha\OneDrive\My Project\Q and A\yes_no with Sinhala\yes_no\bin\Debug\yes_no.exe.config
+C:\Users\Ayeshan Dasantha\OneDrive\My Project\Q and A\yes_no with Sinhala\yes_no\obj\x86\Debug\yes_no.exe
+C:\Users\Ayeshan Dasantha\OneDrive\My Project\Q and A\yes_no with Sinhala\yes_no\obj\x86\Debug\yes_no.pdb
